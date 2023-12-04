@@ -1,0 +1,2 @@
+# mypic
+save blog images
